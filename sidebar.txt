@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ory:home|Door43 (ory)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ory|d43-ory repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ory/archive/master.zip|d43-ory.zip]]
+
+**Recent Changes**
+{{changes>ns = ory}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ory|Ethnologue data]]
+
